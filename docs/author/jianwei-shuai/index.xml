@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jianwei Shuai | 帅建伟课题组</title>
+    <link>https://lh00830.github.io/academic-group.github.io/author/jianwei-shuai/</link>
+      <atom:link href="https://lh00830.github.io/academic-group.github.io/author/jianwei-shuai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jianwei Shuai</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lh00830.github.io/academic-group.github.io/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>Jianwei Shuai</title>
+      <link>https://lh00830.github.io/academic-group.github.io/author/jianwei-shuai/</link>
+    </image>
+    
+    <item>
+      <title>Gene function and cell surface protein association analysis based on single-cell multiomics data</title>
+      <link>https://lh00830.github.io/academic-group.github.io/publication/2023huhuan-cbm/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://lh00830.github.io/academic-group.github.io/publication/2023huhuan-cbm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and analyzing single-cell multimodal data with deep parametric inference</title>
+      <link>https://lh00830.github.io/academic-group.github.io/publication/huhuanbib/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://lh00830.github.io/academic-group.github.io/publication/huhuanbib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting potential interactions between lncRNAs and proteins via combined graph auto-encoder methods</title>
+      <link>https://lh00830.github.io/academic-group.github.io/publication/zhaoq-bib/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://lh00830.github.io/academic-group.github.io/publication/zhaoq-bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XBound-Former: Toward Cross-scale Boundary Modeling in Transformers</title>
+      <link>https://lh00830.github.io/academic-group.github.io/publication/2023-wangls-ieee/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://lh00830.github.io/academic-group.github.io/publication/2023-wangls-ieee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and validation of an interpretable radiomic nomogram for severe radiation proctitis prediction in postoperative cervical cancer patients</title>
+      <link>https://lh00830.github.io/academic-group.github.io/publication/2023weicy-fronmicrob/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://lh00830.github.io/academic-group.github.io/publication/2023weicy-fronmicrob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The spring-like effect of microRNA-31 in balancing inflammatory and regenerative responses in colitis</title>
+      <link>https://lh00830.github.io/academic-group.github.io/publication/2022-jing-qu/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://lh00830.github.io/academic-group.github.io/publication/2022-jing-qu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring depression severity based on facial expression and body movement using deep convolutional neural network</title>
+      <link>https://lh00830.github.io/academic-group.github.io/publication/2022depression/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://lh00830.github.io/academic-group.github.io/publication/2022depression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting potential interactions between lncRNAs and proteins via combined graph auto-encoder methods</title>
+      <link>https://lh00830.github.io/academic-group.github.io/publication/2022-bib2/</link>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://lh00830.github.io/academic-group.github.io/publication/2022-bib2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assembly of Guanine Crystals as a Low-Polarizing Broadband Multilayer Reflector in a Spider,Phoroncidia rubroargentea</title>
+      <link>https://lh00830.github.io/academic-group.github.io/publication/2022acs-spider/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://lh00830.github.io/academic-group.github.io/publication/2022acs-spider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Caspase-1 and Gasdermin D Afford the Optimal Targets with Distinct Switching Strategies in NLRP1b Inflammasome-Induced Cell Death</title>
+      <link>https://lh00830.github.io/academic-group.github.io/publication/2022research/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://lh00830.github.io/academic-group.github.io/publication/2022research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CITEMO XMBD: A flexible single-cell multimodal omics analysis framework to reveal the heterogeneity of immune cells</title>
+      <link>https://lh00830.github.io/academic-group.github.io/publication/2022rnab/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://lh00830.github.io/academic-group.github.io/publication/2022rnab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temperature-optimized propagation of synchronous firing rate in a feed-forward multilayer neuronal network</title>
+      <link>https://lh00830.github.io/academic-group.github.io/publication/2022physica/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://lh00830.github.io/academic-group.github.io/publication/2022physica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dormant Nfatc1 reporter-marked basal stem progenitor cells contribute to mammary lobuloalveoli formation</title>
+      <link>https://lh00830.github.io/academic-group.github.io/publication/2022iscience/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://lh00830.github.io/academic-group.github.io/publication/2022iscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mosaic composition of RIP1–RIP3 signalling hub and its role in regulating cell death</title>
+      <link>https://lh00830.github.io/academic-group.github.io/publication/2022natcb/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://lh00830.github.io/academic-group.github.io/publication/2022natcb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MSSort-DIA XMBD: A deep learning classification tool of the peptide precursors quantified by OpenSWATH</title>
+      <link>https://lh00830.github.io/academic-group.github.io/publication/2022jp/</link>
+      <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://lh00830.github.io/academic-group.github.io/publication/2022jp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network modeling-based identification of the switching targets between pyroptosis and secondary pyroptosis</title>
+      <link>https://lh00830.github.io/academic-group.github.io/publication/2022chaossolitonf/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://lh00830.github.io/academic-group.github.io/publication/2022chaossolitonf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

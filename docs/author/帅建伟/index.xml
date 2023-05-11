@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>帅建伟 | 帅建伟课题组</title>
+    <link>https://lh00830.github.io/academic-group.github.io/author/%E5%B8%85%E5%BB%BA%E4%BC%9F/</link>
+      <atom:link href="https://lh00830.github.io/academic-group.github.io/author/%E5%B8%85%E5%BB%BA%E4%BC%9F/index.xml" rel="self" type="application/rss+xml" />
+    <description>帅建伟</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lh00830.github.io/academic-group.github.io/author/%E5%B8%85%E5%BB%BA%E4%BC%9F/avatar_hu596d535c73fc631dfdac59a68e11f745_4645_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>帅建伟</title>
+      <link>https://lh00830.github.io/academic-group.github.io/author/%E5%B8%85%E5%BB%BA%E4%BC%9F/</link>
+    </image>
+    
+    <item>
+      <title>基于深度学习算法的抑郁症表情与动作及其心理整合变化的过程分析</title>
+      <link>https://lh00830.github.io/academic-group.github.io/publication/2023emotional/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://lh00830.github.io/academic-group.github.io/publication/2023emotional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基于自然语言处理的单细胞转录组数据伪时间分析</title>
+      <link>https://lh00830.github.io/academic-group.github.io/publication/2022%E9%9B%A8%E5%84%BFbiophy/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://lh00830.github.io/academic-group.github.io/publication/2022%E9%9B%A8%E5%84%BFbiophy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
