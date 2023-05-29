@@ -1,11 +1,32 @@
 ---
-title: 'Predicting potential interactions between lncRNAs and proteins via combined graph auto-encoder methods'
+title: '111Modeling and analyzing single-cell multimodal data
+with deep parametric inference'
 authors:
-  - Jingxuan Zhao
-  - Jianqiang Sun
-  - Stella C. Shuai
+  - Huan Hu
+  - Zhen Feng
+  - Hai Lin
+  - Junjie Zhao
+  - Yaru Zhang
+  - Fei Xu
+  - Lingling Chen
+  - Feng Chen
+  - Yunlong Ma
+  - Jianzhong Su
   - Qi Zhao
   - Jianwei Shuai
+author_notes:
+  -  
+  -  
+  -  
+  -  
+  -  
+  -  
+  -  
+  -  
+  -  
+  -  
+  - Corresponding author
+  - Corresponding author
 date: '2023-01-19T00:00:00Z'
 doi: '10.1093/bib/bbac527'
 
@@ -19,10 +40,10 @@ publishDate: '2023-01-19T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Briefings in Bioinformatics, 2023, 24(1), 1–9
+publication: Briefings in Bioinformatics, 2023, 24(1), 1–13
 publication_short: 
 
-abstract: Long noncoding RNA (lncRNA) is a kind of noncoding RNA with a length of more than 200 nucleotide units. Numerous research studies have proven that although lncRNAs cannot be directly translated into proteins, lncRNAs still play an important role in human growth processes by interacting with proteins. Since traditional biological experiments often require a lot of time and material costs to explore potential lncRNA–protein interactions (LPI), several computational models have been proposed for this task. In this study, we introduce a novel deep learning method known as combined graph auto-encoders (LPICGAE) to predict potential human LPIs. First, we apply a variational graph auto-encoder to learn the low dimensional representations from the high-dimensional features of lncRNAs and proteins. Then the graph auto-encoder is used to reconstruct the adjacency matrix for inferring potential interactions between lncRNAs and proteins. Finally, we minimize the loss of the two processes alternately to gain the final predicted interaction matrix. The result in 5-fold cross-validation experiments illustrates that our method achieves an average area under receiver operating characteristic curve of 0.974 and an average accuracy of 0.985, which is better than those of existing six state-of-the-art computational methods. We believe that LPICGAE can help researchers to gain more potential relationships between lncRNAs and proteins effectively.
+abstract: The proliferation of single-cell multimodal sequencing technologies has enabled us to understand cellular heterogeneity with multiple views, providing novel and actionable biological insights into the disease-driving mechanisms. Here, we propose a comprehensive end-to-end single-cell multimodal analysis framework named Deep Parametric Inference (DPI). DPI transforms single-cell multimodal data into a multimodal parameter space by inferring individual modal parameters. Analysis of cord blood mononuclear cells (CBMC) reveals that the multimodal parameter space can characterize the heterogeneity of cells more comprehensively than individual modalities. Furthermore, comparisons with the state-of-the-art methods on multiple datasets show that DPI has superior performance. Additionally, DPI can reference and query cell types without batch effects. As a result, DPI can successfully analyze the progression of COVID-19 disease in peripheral blood mononuclear cells (PBMC). Notably, we further propose a cell state vector field and analyze the transformation pattern of bone marrow cells (BMC) states. In conclusion, DPI is a powerful single-cell multimodal analysis framework that can provide new biological insights into biomedical researchers.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -32,7 +53,8 @@ tags:
 featured: False
 
 
-url_pdf: /publication/ZhaoQ-BiB/2023 ZhaoQ-BiB.pdf
+url_pdf: /publication/HuhuanBIB/2023-HuhuanBIB.pdf
+url_code: https://github.com/studentiz/dpi
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
