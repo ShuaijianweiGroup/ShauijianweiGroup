@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Junjie Zhao | 帅建伟课题组</title>
-    <link>https://lh00830.github.io/ShauijianweiGroup.github.io/author/junjie-zhao/</link>
-      <atom:link href="https://lh00830.github.io/ShauijianweiGroup.github.io/author/junjie-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shuaijianweigroup.github.io/ShauijianweiGroup/author/junjie-zhao/</link>
+      <atom:link href="https://shuaijianweigroup.github.io/ShauijianweiGroup/author/junjie-zhao/index.xml" rel="self" type="application/rss+xml" />
     <description>Junjie Zhao</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lh00830.github.io/ShauijianweiGroup.github.io/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <url>https://shuaijianweigroup.github.io/ShauijianweiGroup/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
       <title>Junjie Zhao</title>
-      <link>https://lh00830.github.io/ShauijianweiGroup.github.io/author/junjie-zhao/</link>
+      <link>https://shuaijianweigroup.github.io/ShauijianweiGroup/author/junjie-zhao/</link>
     </image>
     
     <item>
-      <title>Modeling and analyzing single-cell multimodal data with deep parametric inference</title>
-      <link>https://lh00830.github.io/ShauijianweiGroup.github.io/publication/huhuanbib/</link>
+      <title>111Modeling and analyzing single-cell multimodal data with deep parametric inference</title>
+      <link>https://shuaijianweigroup.github.io/ShauijianweiGroup/publication/zhaoq-bib/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://lh00830.github.io/ShauijianweiGroup.github.io/publication/huhuanbib/</guid>
+      <guid>https://shuaijianweigroup.github.io/ShauijianweiGroup/publication/zhaoq-bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and analyzing single-cell multimodal data with deep parametric inference</title>
+      <link>https://shuaijianweigroup.github.io/ShauijianweiGroup/publication/huhuanbib/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://shuaijianweigroup.github.io/ShauijianweiGroup/publication/huhuanbib/</guid>
       <description></description>
     </item>
     
