@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 博士，研究员
+role: 课题组组长<br/>PI
 # Organizations/Affiliations
 organizations:
   - name: 国科温研究院

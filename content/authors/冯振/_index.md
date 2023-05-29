@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: 温州医科大学
+role: 温州医科大学<br/>讲师
 
 # Organizations/Affiliations
 organizations:
-  - name: 温州医科大学 讲师
+  - name: 温州医科大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -66,8 +66,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - [Researchers]
-  - Teachers
+  - Collaborators
+  - [Teachers]
 ---
 
 长期从事量子模拟、生物医药大数据等研究，在Nat. Photonics、Sci. Adv.、Phys. Rev. Lett.、Nanophotonics、Brief. Bioinformatics、Optica、Photonics Res.、Comput. Biol. Med.等期刊上发表论文23篇。其中，以第一作者或通讯作者身份（含共同）发表论文7篇。

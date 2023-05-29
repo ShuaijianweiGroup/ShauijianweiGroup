@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 钟金金老师
+title: 钟金金
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: 国科温州研究院 副研究员
+role: 国科温州研究院<br/>副研究员
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: 国科温州研究院
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -68,8 +68,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - [Researchers]
+  - Researchers
   - Teachers
 ---
 
-从事功能性生物材料的表征和生长机理研究
+从事功能性生物材料的表征和有机和无机生物矿化机理研究

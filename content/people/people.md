@@ -18,6 +18,7 @@ content:
   user_groups:
     - Principal Investigators
     - Teachers
+    - Collaborators
     - Researchers
     - Grad Students
     - Administration
